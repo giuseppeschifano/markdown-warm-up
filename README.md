@@ -34,6 +34,13 @@ www.google.com/search?q=inurl:www.mozaiekmm.be%2F&as_qdr=y15
 * Zoekfunctie toevoegen
 * Styling mag moderner
 * Functionaliteit aanpassen
-* Logos van sponsors mogen beter§
+* Logos van sponsors mogen beter
+* minder lange startpagina
+
+## lijst groepsleden
+* Rob
+* Giuseppe
+* Daphne
+* Katrien
 
 
