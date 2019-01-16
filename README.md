@@ -34,6 +34,12 @@ www.google.com/search?q=inurl:www.mozaiekmm.be%2F&as_qdr=y15
 * Zoekfunctie toevoegen
 * Styling mag moderner
 * Functionaliteit aanpassen
-* Logos van sponsors mogen beter§
+* Logos van sponsors mogen beter
+* Zorg dat de layout van de pagina volledig gebruikt wordt
 
+## Groepsleden
+* Rob Decks
+* Katrien Vermiert
+* Giuseppe Schifano
+* Daphne de Groot
 
